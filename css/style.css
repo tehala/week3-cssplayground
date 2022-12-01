@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Nerko+One&display=swap');
+
+body{
+    background-color: rgb(113, 194, 176);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading{
+    color: purple;
+    font-family: 'Nerko One', cursive;
+    font-size: 5rem;
+}
+.main{
+    border: 3px solid grey;
+     width: 55%; 
+     margin: 2rem auto;
+}
+.main div{
+    width: 200px; 
+    height: 200px; 
+    border: 4px solid blue; 
+    border-radius: 50%; 
+    margin: 2px auto;
+}
+#red{
+    border-color: red;
+}
+#green{
+    border-color: green;
+
+}
+#blue{
+    border-color: blue;
+}
+.footer {
+    color: gray;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
